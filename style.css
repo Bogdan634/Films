@@ -13,10 +13,12 @@ background-attachment: fixed;
 color: rgb(107, 167, 219);
 }
 
+
 .header {
 backdrop-filter: blur(10px);
 background-color: #df0c0c;
 padding: 20px;
+color: #000;
 }
 .header_body {
 max-width: 1200px;
